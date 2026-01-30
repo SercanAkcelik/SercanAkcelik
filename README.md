@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sercan Akçelik</h1>
 <h3 align="center">An enthusiastic Full Stack Web Developer from Turkey</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sercan akçelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sercan akçelik" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
